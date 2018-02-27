@@ -1,0 +1,1 @@
+This is where I will post all of the computercraft programs that I write. Each program will have its own README, that will explain basic usage and how to configure it to work for you as well. Feel free to use any of these projects as your own as well as helping to optimize and improve them as you see fit. :D
