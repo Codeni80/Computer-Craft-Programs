@@ -1,4 +1,4 @@
-Pastebin code: hf8rYn3i
+Pastebin code: hf8rYn3i (https://pastebin.com/hf8rYn3i)
 
 To download this program, type "pastebin get hf8rYn3i reactor" into your computercraft computer. 
 Ensure you have a 3x3 of monitors attached and that you have an extreme reactors reactor as well as a power storage device attached to your network (with modems). 
